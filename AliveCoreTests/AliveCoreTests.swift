@@ -6,7 +6,6 @@
 //
 
 import XCTest
-@testable import AliveCore
 
 class AliveCoreTests: XCTestCase {
 

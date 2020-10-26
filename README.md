@@ -14,6 +14,9 @@ This is the demo project of showing the list of now playing movies.
 <li>Offline support usign RxCoreData<br/></li>
 <li>API Middle-Ware<br/></li>
 
+## Known Issue
+<li>TableView Cell deque is not working properly<br/></li>
+<li>Favourite is not working as expected<br/></li>
 
 ## Author
 
